@@ -1,2 +1,5 @@
 # Contributors for the project:
-*Josh
+
+* Josh
+* Tergelsaran
+
